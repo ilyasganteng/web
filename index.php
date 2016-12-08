@@ -59,7 +59,7 @@ echo "<hr>";
 
 
 <div id="footer">
-Design By Yahya Ayyasy
+Design by Ilyas
 </div>
 
 </body>
